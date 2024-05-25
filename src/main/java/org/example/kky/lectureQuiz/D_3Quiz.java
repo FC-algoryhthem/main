@@ -1,4 +1,4 @@
-package org.example.kky;
+package org.example.kky.lectureQuiz;
 
 import java.util.Arrays;
 import java.util.Set;
