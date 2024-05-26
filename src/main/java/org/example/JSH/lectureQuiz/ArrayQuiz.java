@@ -1,4 +1,4 @@
-package org.example.JSH;
+package org.example.JSH.lectureQuiz;
 
 public class ArrayQuiz {
     public static void main(String[] args) {
