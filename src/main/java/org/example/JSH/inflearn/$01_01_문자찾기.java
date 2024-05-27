@@ -13,7 +13,7 @@ import java.io.*;
 
     출력
     첫 줄에 해당 문자의 개수를 출력한다.
- */
+ **/
 public class $01_01_문자찾기 {
     public static void main(String[] args) throws IOException {
         //BufferedReader와 BufferedWriter 둘다 Scanner, System.out.println()과 유사하지만 속도 측면에서 훨씬 빠름
