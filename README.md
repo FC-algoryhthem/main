@@ -16,6 +16,8 @@
 
 --------
 <img width="827" alt="image" src="https://github.com/GroupStudy-algoryhthem/main/assets/66647057/520647ff-7739-4ce5-8574-0404a6c58e32">
+
+
 - 원격 저장소의 브랜치와 로컬 저장소의 브랜치가 서로 맞지 않아서 발생하는 문제 입니다.
 > git pull origin yourBranch
 
