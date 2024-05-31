@@ -31,8 +31,10 @@ public class $01_08_유효한팰린드롬 {
 
         }
         return "YES";
+
     }
     public static void main(String[] args)throws IOException {
+
         //scanner와 sout을 쓰는 예제와 20~60ms정도 차이남
         //백준 15552번: 빠른 A+B문제 참조해서 공부해볼것
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -41,5 +43,6 @@ public class $01_08_유효한팰린드롬 {
         bw.write(solution(str));
         bw.flush();
         bw.close();
+
     }
 }

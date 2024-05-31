@@ -19,6 +19,7 @@ import java.io.*;
  **/
 public class $01_06_중복문자제거 {
     public static void main(String[] args) throws IOException {
+
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
@@ -33,5 +34,6 @@ public class $01_06_중복문자제거 {
         bw.write(ans);
         bw.flush();
         bw.close();
+
     }
 }
